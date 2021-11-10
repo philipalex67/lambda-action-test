@@ -1,3 +1,6 @@
 version=0.1
 [default.deploy.parameters]
  MyParam = "123456"
+
+[default.global.parameters]
+ stack_name = "common-stack"
